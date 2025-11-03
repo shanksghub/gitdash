@@ -6,7 +6,9 @@ import pandas as pd
 import pycountry
 
 # Load CSV
-df = pd.read_csv("hp_sites_with_continent.csv")
+csv_path = os.path.join(os.path.dirname(__file__), "hp_sites_with_continent.csv")
+
+df = pd.read_csv(csv_path)
 
 # Map city → country
 city_to_country = {
