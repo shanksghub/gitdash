@@ -1,0 +1,170 @@
+Closest HP Site,City,Latitude,Longitude,Year,Accident,Active Shooter,Civil Unrest,Criminal Activity,Health / Outbreak,Natural Disaster,Others,Political Unrest,Terrorist Act,Cyberattack,Power loss,Total_Risk_Score,Normalized_Risk_Score,Accident_Severity,Active Shooter_Severity,Civil Unrest_Severity,Criminal Activity_Severity,Health / Outbreak_Severity,Natural Disaster_Severity,Others_Severity,Political Unrest_Severity,Terrorist Act_Severity,Cyberattack_Severity,Power loss_Severity,Total_Risk_Score_Severity,Continent
+Aguadilla (AGD),Aguadilla,18.4496551,-67.1184764,2024,0.0,0.0,0.0,0.0,0.0,38.0,0.0,0.0,0.0,0.0,0.0,38.0,3.421461897356143,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,North America
+Almaty (ALM),Almaty,43.2363924,76.9457275,2021,0.0,0.0,0.0,0.0,0.0,74.0,0.0,0.0,0.0,0.0,0.0,74.0,12.73100616016427,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Almaty (ALM),Almaty,43.2363924,76.9457275,2022,0.0,0.0,0.0,0.0,0.0,94.0,0.0,0.0,0.0,0.0,0.0,94.0,7.155963302752294,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Asia
+Almaty (ALM),Almaty,43.2363924,76.9457275,2024,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Asia
+Amstelveen (AML),Amsterdam,52.3730796,4.8924534,2022,34.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,4.4036697247706424,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Ariana (ARF),Ariana,36.9685735,10.1219855,2022,0.0,0.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0,1.651376146788991,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Africa
+Athens (HEA),Athens,33.9597677,-83.376398,2021,34.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,8.829568788501026,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,North America
+Athens (HEA),Athens,33.9597677,-83.376398,2022,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,45.0,2.6605504587155964,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,North America
+Athens (HEA),Athens,33.9597677,-83.376398,2023,52.0,0.0,0.0,0.0,0.0,28.0,0.0,0.0,0.0,0.0,0.0,80.0,9.937888198757763,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,North America
+Athens (HEA),Athens,33.9597677,-83.376398,2024,0.0,0.0,0.0,0.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,31.0,2.332814930015552,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,North America
+Auckland (NZA),Auckland,-36.852095,174.7631803,2021,0.0,0.0,0.0,32.0,0.0,78.0,0.0,0.0,0.0,0.0,0.0,110.0,20.123203285420946,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Oceania
+Auckland (NZA),Auckland,-36.852095,174.7631803,2022,88.0,0.0,0.0,44.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,172.0,14.311926605504588,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Oceania
+Auckland (NZA),Auckland,-36.852095,174.7631803,2023,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,45.0,4.503105590062112,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Oceania
+Bangalore (BEP),Bangalore,12.9767936,77.590082,2022,372.0,0.0,0.0,0.0,0.0,104.0,420.0,0.0,210.0,0.0,0.0,1106.0,100.0,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Bangalore (BEP),Bangalore,12.9767936,77.590082,2023,0.0,0.0,0.0,0.0,0.0,286.0,0.0,0.0,0.0,0.0,0.0,286.0,41.92546583850932,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Bangalore (ECP),Bangalore,12.9767936,77.590082,2022,0.0,0.0,0.0,221.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,221.0,18.807339449541285,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Bangalore (PSR),Bangalore,12.9767936,77.590082,2023,0.0,0.0,0.0,0.0,0.0,420.0,0.0,0.0,0.0,0.0,0.0,420.0,62.732919254658384,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Bangalore (SAU),Bangalore,12.9767936,77.590082,2021,0.0,0.0,252.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,252.0,49.28131416837782,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Bangalore (SAU),Bangalore,12.9767936,77.590082,2022,0.0,0.0,170.0,0.0,0.0,0.0,0.0,0.0,275.0,0.0,0.0,445.0,39.357798165137616,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Bangalore (SAU),Bangalore,12.9767936,77.590082,2023,0.0,0.0,0.0,0.0,0.0,660.0,0.0,0.0,0.0,0.0,0.0,660.0,100.0,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Bangkok (BKK),Bangkok,13.7524938,100.4935089,2022,0.0,0.0,0.0,0.0,0.0,82.0,42.0,0.0,0.0,0.0,0.0,124.0,9.908256880733946,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Asia
+Barueri (SPX),Sao Paulo,-23.5506507,-46.6333824,2023,0.0,0.0,116.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,116.0,15.527950310559005,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,South America
+Barueri (SPX),Sao Paulo,-23.5506507,-46.6333824,2024,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,75.0,9.17573872472784,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,South America
+Beer Tuvia (IBT),Beer Tuvia,31.7338758,34.7262903,2021,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.6160164271047228,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Asia
+Belgrade (BGD),Belgrade,44.8178131,20.4568974,2023,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,17.0,0.15527950310559,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Europe
+Bogota (COB),Bogota,4.6533817,-74.0836331,2021,21.0,0.0,20.0,50.0,0.0,63.0,0.0,0.0,0.0,0.0,0.0,154.0,29.158110882956876,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,South America
+Bogota (COB),Bogota,4.6533817,-74.0836331,2022,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0,2.5688073394495414,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,South America
+Bogota (COB),Bogota,4.6533817,-74.0836331,2023,0.0,0.0,63.0,0.0,0.0,63.0,0.0,0.0,0.0,0.0,0.0,126.0,17.080745341614907,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,South America
+Bogota (COB),Bogota,4.6533817,-74.0836331,2024,0.0,0.0,0.0,144.0,0.0,114.0,0.0,0.0,0.0,0.0,0.0,258.0,37.636080870917574,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,South America
+Brisbane (BBE),Brisbane,-27.4689623,153.0235009,2022,0.0,0.0,34.0,0.0,0.0,0.0,42.0,0.0,0.0,0.0,0.0,76.0,5.5045871559633035,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Oceania
+Brisbane (BBE),Brisbane,-27.4689623,153.0235009,2024,0.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,21.0,0.7776049766718507,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Oceania
+Buenos Aires (BSA),Buenos Aires,-34.6095579,-58.3887904,2021,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0,6.160164271047227,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,South America
+Buenos Aires (BSA),Buenos Aires,-34.6095579,-58.3887904,2022,44.0,0.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,106.0,8.256880733944955,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,South America
+Buenos Aires (BSA),Buenos Aires,-34.6095579,-58.3887904,2024,0.0,0.0,42.0,0.0,0.0,14.0,34.0,0.0,0.0,0.0,0.0,90.0,11.508553654743393,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,South America
+Burnaby (BUC),Vancouver,49.2608724,-123.113952,2022,0.0,0.0,0.0,0.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,32.0,1.4678899082568808,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,North America
+Cape Town (ZAC),Cape Town,-33.9288301,18.4172197,2022,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.091743119266055,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Africa
+Cape Town (ZAC),Cape Town,-33.9288301,18.4172197,2023,0.0,0.0,0.0,0.0,0.0,26.0,0.0,0.0,0.0,0.0,0.0,26.0,1.5527950310559009,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Africa
+Casablanca (CSD),Casablanca,33.5945144,-7.6200284,2024,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0.0,0.0,0.0,0.0,34.0,2.7993779160186625,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Africa
+Cd. de Mexico (MXO),Mexico CIty,19.3207722,-99.1514678,2021,0.0,0.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,24.0,2.4640657084188913,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,North America
+Chengdu (CHD),Chengdu,30.659867,104.063315,2023,0.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0,0.0,0.0,0.0,63.0,7.298136645962733,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Chengdu (CHD),Chengdu,30.659867,104.063315,2024,0.0,0.0,0.0,0.0,0.0,47.0,0.0,0.0,0.0,0.0,0.0,47.0,4.821150855365474,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Chennai (IOC),Chennai,13.0836939,80.270186,2022,0.0,0.0,0.0,0.0,0.0,51.0,56.0,0.0,0.0,0.0,0.0,107.0,8.34862385321101,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Asia
+Chennai (IOC),Chennai,13.0836939,80.270186,2023,51.0,0.0,0.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0,0.0,351.0,52.01863354037267,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Chongqing (CQM),Chongqing,30.05518,107.8748712,2022,0.0,0.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,1.4678899082568808,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Asia
+Diegem (BEG),Brussels,50.8465573,4.351697,2021,0.0,0.0,39.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63.0,10.472279260780288,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Dubai (DIC),Dubai,25.0742823,55.1885387,2021,0.0,0.0,0.0,0.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,48.0,7.392197125256674,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Dubai (DIC),Dubai,25.0742823,55.1885387,2022,0.0,0.0,0.0,0.0,0.0,157.0,0.0,0.0,0.0,0.0,0.0,157.0,12.935779816513762,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Dublin (DIR),Dublin,53.3493795,-6.2605593,2023,0.0,0.0,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0,4.037267080745342,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Europe
+Eschborn (GFR),Eschborn,50.1504737,8.5607767,2022,0.0,0.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,3.669724770642202,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Eschborn (GFR),Eschborn,50.1504737,8.5607767,2023,0.0,0.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0,4.3478260869565215,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Eschborn (GFR),Eschborn,50.1504737,8.5607767,2024,0.0,0.0,42.0,0.0,0.0,0.0,42.0,0.0,0.0,0.0,0.0,84.0,10.57542768273717,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Europe
+Forest Hill (MRN),Melbourne,-37.8142454,144.9631732,2021,0.0,0.0,0.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,22.0,2.053388090349076,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Oceania
+Glasgow (GLW),Glasgow,55.861155,-4.2501687,2024,0.0,0.0,0.0,0.0,0.0,113.0,44.0,0.0,0.0,0.0,0.0,157.0,21.928460342146188,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Europe
+Grenoble (FRG),Grenoble,45.1875602,5.7357819,2024,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,13.063763608087092,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Europe
+Guangzhou (CGZ),Guangzhou,23.1301964,113.2592945,2022,0.0,0.0,0.0,0.0,0.0,113.0,0.0,0.0,0.0,0.0,0.0,113.0,8.89908256880734,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Asia
+Guaynabo (SAS),San Juan,18.3842391,-66.05344,2024,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,18.0,0.3110419906687403,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,North America
+Gurgaon (GTC),Gurgaon,28.4646148,77.0299194,2021,0.0,0.0,439.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,499.0,100.0,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Gurgaon (GTC),Gurgaon,28.4646148,77.0299194,2022,44.0,0.0,155.0,0.0,0.0,0.0,78.0,0.0,0.0,0.0,0.0,277.0,23.94495412844037,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Gurgaon (GTC),Gurgaon,28.4646148,77.0299194,2023,0.0,0.0,0.0,0.0,0.0,84.0,72.0,0.0,39.0,0.0,0.0,195.0,27.795031055900623,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Gurgaon (GTC),Gurgaon,28.4646148,77.0299194,2024,0.0,0.0,0.0,0.0,0.0,141.0,0.0,0.0,0.0,0.0,0.0,141.0,19.440124416796262,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Heredia (AFZ),San Jose,37.3361663,-121.890591,2021,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,9.856262833675563,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,North America
+Heredia (AFZ),San Jose,37.3361663,-121.890591,2022,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,North America
+Hyderabad (HYE),Hyderabad,17.360589,78.4740613,2022,0.0,0.0,0.0,0.0,0.0,111.0,68.0,0.0,0.0,0.0,0.0,179.0,14.954128440366974,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Hyderabad (HYE),Hyderabad,17.360589,78.4740613,2023,0.0,0.0,63.0,0.0,0.0,324.0,0.0,0.0,0.0,0.0,0.0,387.0,57.608695652173914,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Istanbul (TIS),Istanbul,41.006381,28.9758715,2021,0.0,0.0,0.0,0.0,0.0,0.0,48.0,0.0,0.0,0.0,0.0,48.0,7.392197125256674,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Istanbul (TIS),Istanbul,41.006381,28.9758715,2022,63.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63.0,4.3119266055045875,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Istanbul (TIS),Istanbul,41.006381,28.9758715,2023,0.0,0.0,0.0,0.0,0.0,36.0,0.0,0.0,0.0,0.0,0.0,36.0,3.1055900621118013,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Asia
+Istanbul (TIS),Istanbul,41.006381,28.9758715,2024,0.0,0.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63.0,7.309486780715396,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Jakarta (JKK),Jakarta,-6.1754049,106.827168,2021,0.0,0.0,0.0,0.0,0.0,80.0,0.0,0.0,0.0,0.0,0.0,80.0,13.963039014373717,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Asia
+Jakarta (JKK),Jakarta,-6.1754049,106.827168,2022,0.0,0.0,25.0,0.0,0.0,136.0,0.0,0.0,0.0,0.0,0.0,161.0,13.302752293577983,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Jakarta (JKK),Jakarta,-6.1754049,106.827168,2023,0.0,0.0,109.0,0.0,0.0,56.0,0.0,0.0,0.0,0.0,0.0,165.0,23.136645962732917,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Jakarta (JKK),Jakarta,-6.1754049,106.827168,2024,36.0,0.0,0.0,0.0,0.0,73.0,0.0,0.0,0.0,0.0,0.0,109.0,14.463452566096423,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Asia
+Johannesburg (JNB),Johannesburg,-26.205,28.049722,2022,0.0,0.0,34.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,3.211009174311927,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Africa
+Johannesburg (JNB),Johannesburg,-26.205,28.049722,2023,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0.0,0.0,0.0,0.0,34.0,2.7950310559006213,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Africa
+Kolkata (KKT),Kolkata,22.5726459,88.3638953,2022,0.0,0.0,0.0,0.0,0.0,317.0,50.0,0.0,0.0,0.0,0.0,367.0,32.20183486238532,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Kolkata (KKT),Kolkata,22.5726459,88.3638953,2023,0.0,0.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,8.695652173913043,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Kolkata (KKT),Kolkata,22.5726459,88.3638953,2024,66.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,156.0,21.77293934681182,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Kuala Lumpur (MWS),Kuala Lumpur,3.1526589,101.7022205,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0,24.0,2.4640657084188913,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Asia
+Kuala Lumpur (MWS),Kuala Lumpur,3.1526589,101.7022205,2022,0.0,0.0,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0,2.385321100917431,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Asia
+Labege (TEA),Toulouse,43.6044638,1.4442433,2024,0.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.7776049766718507,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Europe
+Lima (LIM),Lima,-12.0459808,-77.0305912,2021,24.0,0.0,0.0,0.0,0.0,116.0,0.0,0.0,0.0,0.0,0.0,140.0,26.283367556468175,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,South America
+Lima (LIM),Lima,-12.0459808,-77.0305912,2022,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,0.0,55.0,3.577981651376147,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,South America
+Lima (LIM),Lima,-12.0459808,-77.0305912,2023,0.0,0.0,34.0,0.0,0.0,112.0,0.0,0.0,0.0,0.0,0.0,146.0,20.18633540372671,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,South America
+Lima (LIM),Lima,-12.0459808,-77.0305912,2024,0.0,0.0,30.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,46.0,4.665629860031104,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,South America
+Lisbon (LIS),Lisbon,38.7077507,-9.1365919,2024,0.0,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0,4.043545878693624,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Europe
+London (GBN),London,51.4893335,-0.1440551,2021,0.0,0.0,105.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,105.0,19.096509240246405,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Europe
+London (GBN),London,51.4893335,-0.1440551,2022,169.0,0.0,186.0,108.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,463.0,41.00917431192661,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Europe
+London (GBN),London,51.4893335,-0.1440551,2023,110.0,0.0,0.0,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,195.0,27.795031055900623,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Europe
+London (GBN),London,51.4893335,-0.1440551,2024,0.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0,12.441679626749613,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Europe
+Lyon (LYN),Lyon,45.7578137,4.8320114,2023,0.0,0.0,42.0,0.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,138.0,18.944099378881987,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Europe
+Makati City (PH006),Makati City,14.5567949,121.0211226,2023,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Asia
+Makati City (PMC),Makati City,14.5567949,121.0211226,2021,0.0,0.0,0.0,0.0,0.0,66.0,0.0,0.0,0.0,0.0,0.0,66.0,11.088295687885012,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Makati City (PMC),Makati City,14.5567949,121.0211226,2022,0.0,0.0,0.0,0.0,0.0,105.0,0.0,0.0,0.0,0.0,0.0,105.0,8.1651376146789,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Asia
+Makati City (PMC),Makati City,14.5567949,121.0211226,2023,0.0,0.0,0.0,0.0,0.0,392.0,0.0,0.0,0.0,0.0,0.0,392.0,58.38509316770186,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Makati City (PMC),Makati City,14.5567949,121.0211226,2024,0.0,0.0,160.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,260.0,37.947122861586315,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Melbourne (MCV),Melbourne,-37.8142454,144.9631732,2021,0.0,0.0,0.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63.0,10.472279260780288,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Oceania
+Melbourne (MCV),Melbourne,-37.8142454,144.9631732,2022,0.0,0.0,132.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,132.0,10.642201834862384,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Oceania
+Meudon (PMO),Paris,48.8588897,2.320041,2021,0.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,1.8480492813141685,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Europe
+Meudon (PMO),Paris,48.8588897,2.320041,2022,0.0,0.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0,1.651376146788991,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Europe
+Meudon (PMO),Paris,48.8588897,2.320041,2023,0.0,0.0,0.0,0.0,0.0,0.0,42.0,0.0,0.0,0.0,0.0,42.0,4.037267080745342,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Europe
+Meudon (PMO),Paris,48.8588897,2.320041,2024,0.0,0.0,0.0,0.0,0.0,42.0,0.0,0.0,0.0,0.0,0.0,42.0,4.043545878693624,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Europe
+Milano (MCR),Milan,45.4641943,9.1896346,2022,0.0,0.0,0.0,0.0,0.0,72.0,0.0,0.0,0.0,0.0,0.0,72.0,5.137614678899083,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Montreal (MRE),Montreal,45.5031824,-73.5698065,2021,0.0,0.0,0.0,0.0,0.0,44.0,0.0,0.0,0.0,0.0,0.0,44.0,6.570841889117044,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,North America
+Mumbai (IRT),Mumbai,19.054999,72.8692035,2022,0.0,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0,75.0,5.412844036697248,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Mumbai (IRT),Mumbai,19.054999,72.8692035,2023,51.0,0.0,0.0,0.0,0.0,119.0,141.0,0.0,0.0,0.0,0.0,311.0,45.807453416149066,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Mumbai (IRT),Mumbai,19.054999,72.8692035,2024,0.0,0.0,0.0,0.0,0.0,51.0,0.0,0.0,0.0,0.0,0.0,51.0,5.443234836702955,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Munich (DES),Munich,48.1371079,11.5753822,2022,0.0,0.0,0.0,0.0,0.0,126.0,0.0,0.0,0.0,0.0,0.0,126.0,10.091743119266056,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Europe
+Munich (DES),Munich,48.1371079,11.5753822,2023,0.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0,0.0,0.0,0.0,78.0,9.627329192546584,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Europe
+Munich (DES),Munich,48.1371079,11.5753822,2024,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,60.0,6.842923794712286,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Nes Ziona (INR),Nes Ziona,31.9295577,34.7990609,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0,0.0,0.0,44.0,6.570841889117044,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Nes Ziona (INR),Nes Ziona,31.9295577,34.7990609,2023,0.0,0.0,164.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0,22.981366459627328,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Osaka (OSK),Osaka,34.6937569,135.5014539,2021,21.0,0.0,0.0,24.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,61.0,10.061601642710473,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Ota - Ku (JAO),Tokyo,35.6768601,139.7638947,2021,0.0,0.0,0.0,0.0,0.0,117.0,0.0,0.0,0.0,0.0,0.0,117.0,21.560574948665295,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Asia
+Ottawa (OSC),Ottawa,45.4208777,-75.6901106,2021,0.0,0.0,0.0,0.0,0.0,87.0,0.0,0.0,0.0,0.0,0.0,87.0,15.400410677618073,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,North America
+Perth (PAU),Perth,-31.9558967,115.8605784,2021,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,1.026694045174538,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Oceania
+Perth (PAU),Perth,-31.9558967,115.8605784,2024,0.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,2.488335925349922,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Oceania
+Poly - Mexico City (MXM01),Mexico City,19.3207722,-99.1514678,2021,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,1.642710472279261,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,North America
+Poly - Sydney (NSA01),Sydney,-33.8698439,151.2082848,2022,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,25.0,0.8256880733944955,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Oceania
+Poly - Warsaw (WAP01),Warsaw,52.2333742,21.0711489,2023,0.0,0.0,0.0,0.0,0.0,106.0,0.0,0.0,0.0,0.0,0.0,106.0,13.975155279503104,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Europe
+Poly Melbourne (MEA01),Melbourne,-37.8142454,144.9631732,2022,0.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0,7.339449541284404,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Oceania
+Porto Alegre (POA),Porto Alegre,-30.0324999,-51.2303767,2022,0.0,0.0,0.0,0.0,0.0,170.0,0.0,0.0,0.0,0.0,0.0,170.0,14.12844036697248,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,South America
+Porto Alegre (POA),Porto Alegre,-30.0324999,-51.2303767,2024,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,50.0,5.287713841368585,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,South America
+Praha (PUE),Prague,50.0874654,14.4212535,2023,0.0,0.0,0.0,0.0,0.0,56.0,0.0,0.0,0.0,0.0,0.0,56.0,6.211180124223603,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Pune (IPU),Pune,18.5213738,73.8545071,2022,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,3.1192660550458715,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Pune (IPU),Pune,18.5213738,73.8545071,2023,0.0,0.0,0.0,0.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,29.0,2.018633540372671,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Asia
+Ramat Gan (RIS01),Tel Aviv,32.0852997,34.7818064,2024,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0,21.0,0.7776049766718507,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Asia
+Rhodes (SNO),Sydney,-33.8698439,151.2082848,2022,0.0,0.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63.0,4.3119266055045875,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Oceania
+Roma (ITR),Rome,41.8933203,12.4829321,2022,12.0,0.0,0.0,0.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,44.0,2.5688073394495414,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Santa Ana (SJN),San Jose,37.3361663,-121.890591,2021,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,North America
+Santa Ana (SJN),San Jose,37.3361663,-121.890591,2022,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,18.0,0.1834862385321101,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,North America
+Santiago (SNT),Santiago,9.8694792,-83.7980749,2021,0.0,0.0,0.0,0.0,0.0,92.0,0.0,0.0,0.0,0.0,0.0,92.0,16.427104722792606,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,North America
+Santiago (SNT),Santiago,9.8694792,-83.7980749,2022,0.0,0.0,25.0,0.0,0.0,109.0,0.0,0.0,0.0,0.0,0.0,134.0,10.825688073394495,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,North America
+Santiago (SNT),Santiago,9.8694792,-83.7980749,2023,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,40.0,3.7267080745341614,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,North America
+Santiago (SNT),Santiago,9.8694792,-83.7980749,2024,0.0,0.0,0.0,0.0,0.0,108.0,0.0,0.0,0.0,0.0,0.0,108.0,14.307931570762053,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,North America
+Seoul (KOR),Seoul,37.5666791,126.9782914,2022,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.8256880733944955,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Asia
+Seoul (KOR),Seoul,37.5666791,126.9782914,2023,76.0,0.0,0.0,0.0,0.0,52.0,0.0,0.0,0.0,0.0,0.0,128.0,17.391304347826086,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Asia
+Seoul (KOR),Seoul,37.5666791,126.9782914,2024,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,22.0,0.0,0.0,52.0,5.598755832037325,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Shanghai (SCS),Shanghai,31.2312707,121.4700152,2023,0.0,0.0,0.0,0.0,0.0,114.0,0.0,0.0,0.0,0.0,0.0,114.0,15.217391304347828,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Asia
+Shinagawa (JAT),Tokyo,35.6768601,139.7638947,2021,0.0,0.0,0.0,0.0,0.0,464.0,0.0,0.0,0.0,0.0,0.0,464.0,92.81314168377824,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Shinagawa (JAT),Tokyo,35.6768601,139.7638947,2022,88.0,0.0,0.0,0.0,0.0,194.0,0.0,0.0,0.0,0.0,0.0,282.0,24.403669724770644,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Shinagawa (JAT),Tokyo,35.6768601,139.7638947,2023,0.0,0.0,0.0,0.0,0.0,205.0,0.0,0.0,0.0,0.0,0.0,205.0,29.347826086956523,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Shinagawa (JAT),Tokyo,35.6768601,139.7638947,2024,100.0,0.0,0.0,148.0,0.0,131.0,0.0,0.0,280.0,0.0,0.0,659.0,100.0,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Asia
+Singapore (SIN),Singapore,1.357107,103.8194992,2022,0.0,0.0,0.0,0.0,0.0,119.0,0.0,0.0,0.0,0.0,0.0,119.0,9.44954128440367,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Asia
+Solna (SOO),Stockholm,59.3251172,18.0710935,2021,0.0,0.0,0.0,20.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,44.0,6.570841889117044,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Sydney (KOA),Sydney,-33.8698439,151.2082848,2022,68.0,0.0,0.0,84.0,0.0,135.0,68.0,0.0,0.0,0.0,0.0,355.0,31.10091743119266,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,Oceania
+Sydney (KOA),Sydney,-33.8698439,151.2082848,2023,0.0,0.0,52.0,0.0,0.0,52.0,0.0,0.0,0.0,0.0,0.0,104.0,13.664596273291924,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Oceania
+Sydney (KOA),Sydney,-33.8698439,151.2082848,2024,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.0,3.1104199066874028,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Oceania
+Taipei City (TNT),Taipei City,-34.5948217,-58.5020211,2022,0.0,0.0,34.0,0.0,0.0,261.0,0.0,0.0,0.0,0.0,0.0,295.0,25.596330275229356,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,South America
+Taipei City (TNT),Taipei City,-34.5948217,-58.5020211,2023,0.0,0.0,0.0,0.0,0.0,430.0,0.0,0.0,0.0,0.0,0.0,430.0,64.28571428571429,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,South America
+Taipei City (TPC),Taipei City,-34.5948217,-58.5020211,2021,0.0,0.0,0.0,0.0,0.0,352.0,0.0,0.0,0.0,0.0,0.0,352.0,69.81519507186859,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,South America
+Taipei City (TPC),Taipei City,-34.5948217,-58.5020211,2022,0.0,0.0,0.0,0.0,0.0,539.0,0.0,0.0,0.0,0.0,0.0,539.0,47.981651376146786,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,South America
+Taipei City (TPC),Taipei City,-34.5948217,-58.5020211,2023,0.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0,0.0,0.0,0.0,78.0,9.627329192546584,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,South America
+Taipei City (TPC),Taipei City,-34.5948217,-58.5020211,2024,0.0,0.0,0.0,0.0,0.0,72.0,0.0,0.0,0.0,0.0,0.0,72.0,8.709175738724728,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,South America
+Tijuana (TJM01),Tijuana,32.5317397,-117.019529,2021,0.0,0.0,0.0,50.0,0.0,62.0,0.0,0.0,0.0,0.0,0.0,112.0,20.53388090349076,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,North America
+Tijuana (TJM01),Tijuana,32.5317397,-117.019529,2024,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,40.0,3.732503888024884,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,North America
+Tlaquapaque (GLF),Guadalajara,20.6720375,-103.338396,2022,0.0,0.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,24.0,0.7339449541284404,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,North America
+Warzawa (WSW),Warsaw,52.2333742,21.0711489,2022,42.0,0.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,5.5045871559633035,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Warzawa (WSW),Warsaw,52.2333742,21.0711489,2024,0.0,0.0,42.0,0.0,0.0,34.0,0.0,0.0,0.0,0.0,0.0,76.0,9.331259720062208,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Washington DC (DCP),Washington DC,38.8950368,-77.0365427,2021,84.0,0.0,0.0,24.0,0.0,0.0,34.0,0.0,0.0,0.0,0.0,142.0,26.69404517453799,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,North America
+Washington DC (DCP),Washington DC,38.8950368,-77.0365427,2022,23.0,0.0,0.0,102.0,0.0,0.0,42.0,0.0,0.0,0.0,0.0,167.0,13.853211009174313,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very High,North America
+Washington DC (DCP),Washington DC,38.8950368,-77.0365427,2023,0.0,0.0,116.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,116.0,15.527950310559005,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,North America
+Wellington NZW),Wellington,-41.2887953,174.7772114,2021,0.0,0.0,0.0,0.0,0.0,93.0,0.0,0.0,0.0,0.0,0.0,93.0,16.632443531827516,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Oceania
+Wellington NZW),Wellington,-41.2887953,174.7772114,2022,0.0,0.0,17.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,1.743119266055046,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Oceania
+Wien (VIE),Wien,48.2083537,16.3725042,2021,0.0,0.0,21.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,8.829568788501026,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Wien (VIE),Wien,48.2083537,16.3725042,2022,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,3.1192660550458715,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Wien (VIE),Wien,48.2083537,16.3725042,2023,0.0,0.0,0.0,0.0,0.0,56.0,0.0,0.0,0.0,0.0,0.0,56.0,6.211180124223603,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Europe
+Wroclaw (WRB),Wroclaw,51.1089776,17.0326689,2023,0.0,0.0,0.0,0.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,96.0,12.422360248447204,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Europe
+Wuhan ( WUA),Wuhan,30.5951051,114.2999353,2023,0.0,0.0,0.0,0.0,0.0,76.0,0.0,0.0,0.0,0.0,0.0,76.0,9.316770186335404,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Medium,Asia
+Wuhan (CWH),Wuhan,30.5951051,114.2999353,2021,0.0,0.0,0.0,0.0,0.0,105.0,0.0,0.0,0.0,0.0,0.0,105.0,19.096509240246405,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High,Asia
